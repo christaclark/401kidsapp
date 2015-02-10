@@ -1,0 +1,13 @@
+NOTES
+
+
+ID: in JS is a special identifying number 
+Div: is a relational thing 
+Solution: if it is true, it does something, shows a return 
+Slug: make sure you have a machine readable name (you can use it for stuff like accesssing a div with an id)
+Items: numbers that relate to a particular group 
+
+console.log 
+
+Traverse: get the file and load it to Json and it becomes the object I'm working with "OBJ" is the data string
+- Use the "each" fucntion to iterate through everything 
